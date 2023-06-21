@@ -6,9 +6,13 @@
 
 #### &emsp; - I used to work as a semiconductor process engineer. :microscope:
 
-#### &emsp; - Currently, I am working as a backend engineer. :computer:
+<p align="center">
+    <strong>- Currently, I am working as a backend engineer. :computer:</strong>
+</p>
 
-#### &emsp; - I am actively changing my life. :boat:
+<p align="center">
+    <strong>- I am actively changing my life. :boat:</strong>
+</p>
 
 <br>
 <br>
