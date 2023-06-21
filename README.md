@@ -2,17 +2,21 @@
 
 <br>
 
-#### &ensp; Hi! 👋
+<h3 align="center">
+    <strong>Hi! 👋</strong>
+</h3>
 
-#### &emsp; - I used to work as a semiconductor process engineer. :microscope:
+<h3 align="center">
+    <strong>-<font size="10"> I used to work as a semiconductor process engineer. :microscope:</font></strong>
+</h3>
 
-<p align="center">
+<h3 align="center">
     <strong>- Currently, I am working as a backend engineer. :computer:</strong>
-</p>
+</h3>
 
-<p align="center">
+<h3 align="center">
     <strong>- I am actively changing my life. :boat:</strong>
-</p>
+</h3>
 
 <br>
 <br>
