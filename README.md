@@ -1,5 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=224384&height=160&section=header)
+![header](https://capsule-render.vercel.app/api?type=waving&color=99CCFF&height=160&section=header)
 
+<br>
 
 <h3 align="center">
     <strong>Hi! 👋</strong>
@@ -38,6 +39,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-![footer](https://capsule-render.vercel.app/api?type=waving&color=224384&height=140&section=footer)
--->
 
+-->
+![footer](https://capsule-render.vercel.app/api?type=waving&color=224384&height=140&section=footer)
