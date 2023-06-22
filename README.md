@@ -7,15 +7,15 @@
 </h3>
 
 <h3 align="center">
-    <strong>-<font size="10"> I used to work as a semiconductor process engineer. :microscope:</font></strong>
+    <strong>I used to work as a semiconductor process engineer. :microscope:</strong>
 </h3>
 
 <h3 align="center">
-    <strong>- Currently, I am working as a backend engineer. :computer:</strong>
+    <strong>Currently, I am working as a backend engineer. :computer:</strong>
 </h3>
 
 <h3 align="center">
-    <strong>- I am actively changing my life. :boat:</strong>
+    <strong>I am actively changing my life. :boat:</strong>
 </h3>
 
 <br>
